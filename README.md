@@ -1,2 +1,2 @@
 # my-notebooks
-Storing all my Google Collab notebooks
+Storing all my Google Colab notebooks
